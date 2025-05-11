@@ -57,4 +57,38 @@
         it's not a bad idea to make things automated, let me give you an example, I was taking a class In Luminus with Instructor Omar, he told me that he automated the github commands so he no longer uses the commands that we use every time we want to push, so he has something that he has invented to make it easier.                              
 
 
+# What I've learnt from the command line cheat sheet
+
+Every developer has to have the knowledge dealing with the terminal, going through a specific file, creating a file, you can do many things
+makes your life easier, here are some examples of using the terminal:
+
+- **mkdir** let's say we want to create a file or directory, we simply open the powershell, and write mkdir "the name of the file", without qutations of course, and the file is created, this is a screenshot
+
+![mkdir creating file](mkdir.png)
+
+- **pwd** pwd is used when you want to know which directory you are in, if you are lost it shows you the exact path you are in, so let's open a random file and see what does it show us:
+
+![pwd path](pwd.png)
+
+let me explain, here we are in a file called dev-diary, we opened the powershell from the exact file and we typed pwd, and it told us that we are in the desktop inside a file called dev-diary.
+
+- **ls** this command is used when we want to list the files that are in a specific file, let's see an example:
+
+![ls list files](ls_example.png)
+
+here we opened the dev-diary folder and opened the powershell from it, then we typed ls, and it listed all the files that are inside the folder which is 
+mkdir.png and pwd.png and the readme.md file and this was the files that was in the directory when the screenshot was taken, ofcourse it has increased.
+
+- **cd** this command is used if we want to go through or inside a specific folder we want, let's see an example:
+
+![cd going inside a file](cd_example.png)
+
+here we have a random folder called **myFolder** and inside this folder we have another folder called **DemoMeh** to go inside **DemoMeh** folder we typed **cd DemoMeh** and it shows us in the picture that our path is inside the **DemoMeh** folder
+
+- **touch** to use touch we have to open ubuntu first, touch is used to create a new file in the same exact file you are working in, let's see an example:
+
+![touch example](touch_example.png)
+
+here we used touch to create grocery-list.txt and we checked that the file exists by using ls
+
 

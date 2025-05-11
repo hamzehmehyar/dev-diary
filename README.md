@@ -22,7 +22,7 @@
     - **focusing on providind values** let's be clear here, you as a developer, are meant to be the one who solves problems for the people,
         by making their life easier, building up solutions that can put people's life in ease, let's say an example, instead of going to the electrcity or water department to pay the bills and stucking at traffic and waiting in lines, you can just make this easier by building a system that can easily solve this issue by paying online, so the user experience is more important than the code itself.
 
-    - **Strive for simplicity in your code and solutions*, always try to make things as simple as could it be and eficient as could it be, 
+    - **Strive for simplicity in your code and solutions**, always try to make things as simple as could it be and eficient as could it be, 
         don't make your users run away from your system by making your system hard to use for example, make it simple to let the users easily get the maximum benefit they need, also eficiency is very important that could grow with time, when you write your code for example, try to write the most efficient code that meets the requirments and the effieciency.
 
     - **Priorities**, we as a developers always have things to do, so we have to put these things or structure them if this things is 

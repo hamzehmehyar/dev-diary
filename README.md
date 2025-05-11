@@ -6,11 +6,11 @@
 
 # what I have learnt from the good developer mindset article
 
-    - The technology field keeps *growing* everyday and sometimes you may miss a lot of things, so it's important to keep learning
+- The technology field keeps **growing** everyday and sometimes you may miss a lot of things, so it's important to keep learning
         to keep up to date with things that are growing rapidly, in the old decades people used to see the future life as a joke,
         like who imagined for an example using video calls to talk with people from another country, and now here we are seeing this technologies, and you as a developer must keep an eye for this growing field.
 
-    - Any problem in the world must be divided into small pieces to get solved, so it's like a **divide and qonquer**, let's say you want 
+- Any problem in the world must be divided into small pieces to get solved, so it's like a **divide and qonquer**, let's say you want 
       to build any system you want to build, you have to break this system into functional requirments and start to solve this requirment to another one, step by step, to fully understand where you are, you don't just look at the problem of how big is it, maybe the problem is really big but when you start breaking it into smaller pieces it will get solved.
 
     - **Debugging and finding problems** is an important skill for every developer, every developer must have a strong logic of how things 
